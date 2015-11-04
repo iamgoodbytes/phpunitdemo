@@ -16,6 +16,10 @@ Edit the following 2 files with the right info:
     app/config/local/database.php
     app/config/database.php
 
+Run your migrations and seeders
+
+	php artisan migrate --seed
+
 ###4. Set the project url
 
 
